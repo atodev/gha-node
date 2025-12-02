@@ -4,5 +4,5 @@ import {sum} from '../src/sum.js';
 describe('sum function', () => {
   it('should return the sum of two numbers', () => {
     expect(sum(2, 3)).toBe(5);
-  }); i
+  }); 
 });
