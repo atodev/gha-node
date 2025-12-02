@@ -22,8 +22,7 @@ jobs:
       - name: Install deps
         run: npm ci
       - name: lint
-        run: npm run lint
-jobs:
+        run: npm run lin
   test:
     runs-on: ubuntu-latest
     
